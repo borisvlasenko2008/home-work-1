@@ -1,6 +1,10 @@
 body {
-   background-color: red;
+   background-color: rgb(231, 128, 128);
    font-size: 30px;
-   color: wheat;
+   color: rgb(0, 0, 0);
    text-align: center;
+}
+img {
+   display: block;
+   margin: 0 auto;
 }
